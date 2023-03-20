@@ -15,7 +15,7 @@ Tag.init(
 
     },
     tag_name: {
-      type: DatTypes.STRING
+      type: DataTypes.STRING
     }
   },
   {

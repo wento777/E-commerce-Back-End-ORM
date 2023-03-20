@@ -11,12 +11,12 @@ id: {
   type: DataTypes.INTEGER,
   allowNull: false,
   primaryKey: true,
-  autoIncrement: true,
+  autoIncrement: true
 
 },
-caregory_name: {
+category_name: {
   type: DataTypes.STRING,
-  allowNull:false
+  allowNull: false
 }
   },
   {
