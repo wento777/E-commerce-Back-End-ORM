@@ -10,7 +10,7 @@ router.get('/', (req, res) => {
    
     include: [Product],
   })
-  then(results => {
+  .then(results => {
     res.json(results);
   });  
 
@@ -25,7 +25,7 @@ router.get('/:id', (req, res) => {
     },
    
   
-    include: [Product],
+    // include: [Product],
   })
   .then(results => {
     res.json(results);

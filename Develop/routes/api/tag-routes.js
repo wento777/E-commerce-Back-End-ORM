@@ -7,13 +7,14 @@ router.get('/', (req, res) => {
   // find all tags
   // be sure to include its associated Product data
   Tag.findAll({
-    include: [{
-      model: Product,
-      through: ProductTag,
-    },
-    ],
+    // include: [{
+    //   model: Product,
+    //   through: ProductTag,
+    // },
+    // ],
     // include: [Product]
-  }).then(results => {
+  })
+  .then(results => {
     res.json(results);
   });
 });
@@ -26,11 +27,11 @@ router.get('/:id', (req, res) => {
         id: req.params.id,
       },
       // include: [Product]
-      include: [{
-          model: Product,
-          through: ProductTag,
-        },
-      ],
+      // include: [{
+      //     model: Product,
+      //     through: ProductTag,
+      //   },
+      // ],
     }).then(results => {
       res.json(results);
     });
