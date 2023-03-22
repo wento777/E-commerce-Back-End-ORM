@@ -220,6 +220,13 @@ Create the code needed in server.js to sync the Sequelize models to the MySQL da
   # Team-Profile-Generator-OOP Screenshots
 
 
+   * ![Screenshot (15)](https://user-images.githubusercontent.com/70625665/226804014-553176f6-f036-46ce-b504-11928a064234.png)
+
+   * ![Screenshot (16)](https://user-images.githubusercontent.com/70625665/226804061-152c61d8-f569-4de4-b1d4-accac919ac54.png)
+
+   * ![Screenshot (17)](https://user-images.githubusercontent.com/70625665/226804085-a5c4b971-dcd4-4fc4-8d05-7f4639b1fb07.png)
+
+
 
 
 
