@@ -214,14 +214,14 @@ Create the code needed in server.js to sync the Sequelize models to the MySQL da
   
   # Project recording link:
 
-  * 
+  * https://drive.google.com/file/d/1PW3oUHfDzfY_F1I_Yw8Zga7_sWqshNES/view
   
   
   # Team-Profile-Generator-OOP Screenshots
 
 
 
-## Summary
+
 
 
 
