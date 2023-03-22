@@ -210,7 +210,7 @@ Create the code needed in server.js to sync the Sequelize models to the MySQL da
 
   # This project has been deployed to GitHub, here is the link:
 
-  * 
+  * https://github.com/wento777/E-commerce-Back-End-ORM
   
   # Project recording link:
 
